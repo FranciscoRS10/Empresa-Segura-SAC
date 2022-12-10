@@ -1,0 +1,78 @@
+
+
+.btn-primary {
+    color: #000;
+    background-color: #FEA116;
+    border-color: #FEA116;
+}
+
+.btn-primary:hover {
+    color: #000;
+    background-color: #feaf39;
+    border-color: #feaa2d;
+}
+
+.btn-whatsapp {
+    color: #000;
+    background-color: #00bb2d;
+    border-color: #00bb2d;
+    border-radius: 5px;
+}
+.btn-whatsapp:hover {
+    color: #00bb2d;
+    background-color: white;
+    border-color: white;
+    border-radius: 5px;
+}
+
+.btn-facebook {
+    color: #000;
+    background-color: #3b5998;
+    border-color: #3b5998;
+    border-radius: 5px;
+}
+.btn-facebook:hover {
+    color: #3b5998;
+    background-color: white;
+    border-color: white;
+    border-radius: 5px;
+}
+
+.btn-twitter {
+    color: #000;
+    background-color: #00acee;
+    border-color: #00acee;
+    border-radius: 5px;
+}
+.btn-twitter:hover {
+    color: #00acee;
+    background-color: white;
+    border-color: white;
+    border-radius: 5px;
+}
+
+.btn-instagram {
+    color: #000;
+    background:#d6249f;
+    border-color:#d6249f;
+    border-radius: 5px;
+}
+.btn-instagram:hover {
+    color: #d6249f;
+    background-color: white;
+    border-color: white;
+    border-radius: 5px;
+}
+
+.btn-youtube {
+    color: #000;
+    background-color: #c4302b;
+    border-color: #c4302b;
+    border-radius: 5px;
+}
+.btn-youtube:hover {
+    color: #c4302b;
+    background-color: white;
+    border-color: white;
+    border-radius: 5px;
+}
